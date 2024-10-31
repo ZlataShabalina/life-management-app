@@ -1,0 +1,41 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LifeManagementApp.Weather"
+             Title="Weather">
+
+    <StackLayout Padding="20" Spacing="10">
+        <Label Text="Enter City:" FontSize="Medium" />
+        <Editor x:Name="editor" Placeholder="Type city name here" TextChanged="OnEditorTextChanged" />
+
+        <Button Text="Get Weather" Clicked="CityClick" />
+
+        
+        <StackLayout x:Name="CityInfoStack" IsVisible="False">
+            <Label x:Name="CityLabel" FontSize="Small" FontAttributes="Bold" TextColor="Blue" />
+            <Label x:Name="CountryLabel" FontSize="Small" TextColor="Gray" />
+        </StackLayout>
+
+       
+        <StackLayout x:Name="MinTemperatureStack" IsVisible="False">
+            <Label Text="Min Temperature:" FontSize="Small" />
+            <Label x:Name="MinTemperatureLabel" FontSize="Medium" />
+        </StackLayout>
+
+        
+        <StackLayout x:Name="MaxTemperatureStack" IsVisible="False">
+            <Label Text="Max Temperature:" FontSize="Small" />
+            <Label x:Name="MaxTemperatureLabel" FontSize="Medium" />
+        </StackLayout>
+
+       
+        <StackLayout x:Name="RainForecastStack" IsVisible="False">
+            <Label Text="Rain Forecast:" FontSize="Small" />
+            <Label x:Name="RainForecastLabel" FontSize="Medium" />
+        </StackLayout>
+
+        <StackLayout x:Name="WindSpeedStack" IsVisible="False">
+            <Label Text="Wind Speed:" FontSize="Small" />
+            <Label x:Name="WindSpeedLabel" FontSize="Medium" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\weather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\weather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\forecastdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\forecastdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\weather.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\weather.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|c:\\users\\adm\\source\\repos\\lifemanagementapp\\lifemanagementapp\\lifemanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C272A8E8-0640-4D50-B008-891EA527E5F7}|LifeManagementApp\\LifeManagementApp.csproj|solutionrelative:lifemanagementapp\\lifemanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\Weather.xaml.cs",
+              "RelativeDocumentMoniker": "LifeManagementApp\\Weather.xaml.cs",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\Weather.xaml.cs",
+              "RelativeToolTip": "LifeManagementApp\\Weather.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDwAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:54:35.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "LifeManagementApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "LifeManagementApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:46:37.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "LifeManagementApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\MainPage.xaml",
+              "RelativeToolTip": "LifeManagementApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T05:41:48.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "LifeManagementApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\MauiProgram.cs",
+              "RelativeToolTip": "LifeManagementApp\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:59:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weather.xaml",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\Weather.xaml",
+              "RelativeDocumentMoniker": "LifeManagementApp\\Weather.xaml",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\Weather.xaml",
+              "RelativeToolTip": "LifeManagementApp\\Weather.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T05:54:30.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\WeatherService.cs",
+              "RelativeDocumentMoniker": "LifeManagementApp\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\WeatherService.cs",
+              "RelativeToolTip": "LifeManagementApp\\WeatherService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCcAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:08:09.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\WeatherData.cs",
+              "RelativeDocumentMoniker": "LifeManagementApp\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\WeatherData.cs",
+              "RelativeToolTip": "LifeManagementApp\\WeatherData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:58:04.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForecastData.cs",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\ForecastData.cs",
+              "RelativeDocumentMoniker": "LifeManagementApp\\ForecastData.cs",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\ForecastData.cs",
+              "RelativeToolTip": "LifeManagementApp\\ForecastData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:21:26.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "LifeManagementApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\AppShell.xaml",
+              "RelativeToolTip": "LifeManagementApp\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T05:52:43.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\App.xaml",
+              "RelativeDocumentMoniker": "LifeManagementApp\\App.xaml",
+              "ToolTip": "C:\\Users\\adm\\source\\repos\\LifeManagementApp\\LifeManagementApp\\App.xaml",
+              "RelativeToolTip": "LifeManagementApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T19:15:50.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LifeManagementApp.csproj",
+              "DocumentMoniker": "C:\\Users\\adm\\Source\\Repos\\LifeManagementApp\\LifeManagementApp\\LifeManagementApp.csproj",
+              "RelativeDocumentMoniker": "LifeManagementApp\\LifeManagementApp.csproj",
+              "ToolTip": "C:\\Users\\adm\\Source\\Repos\\LifeManagementApp\\LifeManagementApp\\LifeManagementApp.csproj",
+              "RelativeToolTip": "LifeManagementApp\\LifeManagementApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T18:07:55.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
